@@ -8,11 +8,15 @@ Estou dando os meus primeiros passos no mundo da programação, construindo uma 
 
 ### 🚀 Meu Foco e Aprendizado Atual
 
-No momento, estou focado em aprender e dominar as seguintes tecnologias:
+<div id="tecnologias">
+  <img src="https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white" alt="Java" />
+  <img src="https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54" alt="Python" />
+  <img src="https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white" alt="SQL / Banco de Dados" />
+</div>
 
-*   ☕ **Java:** Minha linguagem principal de estudos no momento, compreendendo a sintaxe, lógica e orientação a objetos.
-*   🐍 **Python:** Linguagem que estou explorando em paralelo para expandir meu repertório de soluções.
-*   🗄️ **Banco de Dados:** Estudando como modelar, estruturar e consultar dados de forma eficiente.
+*   **Java:** Minha linguagem principal de estudos no momento, compreendendo a sintaxe, lógica e orientação a objetos.
+*   **Python:** Linguagem que estou explorando em paralelo para expandir meu repertório de soluções.
+*   **Banco de Dados:** Estudando como modelar, estruturar e consultar dados de forma eficiente.
 
 ---
 
