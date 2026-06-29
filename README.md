@@ -18,7 +18,7 @@ No momento, estou focado em aprender e dominar as seguintes tecnologias:
 
 ### 🎯 Meus Objetivos
 
-*   💻 Absorver o máximo de conhecimento prático durante o programa +devs2blu.
+*   💻 Absorver o máximo de conhecimento prático durante o programa +Devs2Blu.
 *   📂 Construir um portfólio com projetos reais e bem estruturados.
 *   💼 **Conquistar a minha primeira oportunidade no mercado de trabalho como Desenvolvedor.**
 
