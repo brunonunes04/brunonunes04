@@ -1,6 +1,6 @@
 # Olá, eu sou o Bruno! 👋
 
-Seja bem-vindo ao meu perfil do GitHub. Sou estudante de desenvolvimento de software e atualmente faço parte do programa **+devs2blu**, focado na formação de novos talentos em tecnologia.
+Seja bem-vindo ao meu perfil do GitHub. Sou estudante de desenvolvimento de software e atualmente faço parte do programa **+Devs2Blu**, focado na formação de novos talentos em tecnologia.
 
 Estou dando os meus primeiros passos no mundo da programação, construindo uma base sólida em lógica e descobrindo o potencial do desenvolvimento de software para resolver problemas reais.
 
@@ -32,4 +32,4 @@ Se quiser trocar uma ideia sobre tecnologia, estudos ou oportunidades, sinta-se 
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:bgbl01312@gmail.com)
 
 ---
-⚡ *“A única maneira de fazer um excelente trabalho é amar o que você faz.”*
+⚡ *“A verdadeira arte é só um reflexo dos sentimentos de quem a contempla.”*
